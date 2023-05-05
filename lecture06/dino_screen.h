@@ -1,0 +1,2 @@
+int screen();
+int explain();
